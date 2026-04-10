@@ -1,0 +1,1 @@
+A mod that displays the activation percentage of the Carefree Melody charm
